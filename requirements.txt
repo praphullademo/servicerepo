@@ -1,0 +1,6 @@
+# Python logging is built-in, no additional dependencies required
+# Add your other project dependencies here as needed
+
+# Example:
+# flask==2.3.0
+# requests==2.31.0
